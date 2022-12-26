@@ -19,7 +19,7 @@ if not os.path.isdir(path):
 	os.mkdir(path)
 
 # defining the size of images
-(width, height) = (130, 100)
+(width, height) = (48, 48)
 
 #'0' is used for my webcam,
 # if you've any other camera
